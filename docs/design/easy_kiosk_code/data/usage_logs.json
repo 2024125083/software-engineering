@@ -1,0 +1,23 @@
+[
+  {
+    "log_id": "c78ba79b-3735-4d8a-8c4f-f12939407e6a",
+    "kiosk_id": "KIOSK-01",
+    "event_type": "easy_mode_started",
+    "menu_id": null,
+    "created_at": "2026-06-20T00:34:29"
+  },
+  {
+    "log_id": "889df02e-b50f-4548-b875-9b05f7bf223c",
+    "kiosk_id": "KIOSK-01",
+    "event_type": "menu_selected",
+    "menu_id": "M01",
+    "created_at": "2026-06-20T00:34:31"
+  },
+  {
+    "log_id": "113dd8ec-2e94-4b1e-947f-30ed0c49cd7d",
+    "kiosk_id": "KIOSK-01",
+    "event_type": "order_completed",
+    "menu_id": "M01",
+    "created_at": "2026-06-20T00:34:34"
+  }
+]
